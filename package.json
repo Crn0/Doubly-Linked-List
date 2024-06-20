@@ -1,0 +1,13 @@
+{
+  "name": "doubly-linked-list",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "doubly-linked-list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node doubly-linked-list.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
